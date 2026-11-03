@@ -125,7 +125,7 @@ def test_market_result_recomputes_from_data():
 
 
 def test_conclusions_match_between_readme_and_notebook():
-    section = lambda text: text.split("## My conclusions")[1].split("## What")[0].replace("&#36;", "$").strip()
+    section = lambda text: re.sub(r"USD (?=\d)", "$", text.split("## My conclusions")[1].split("## What")[0]).strip()
     assert section(README) == section(MARKDOWN)
 
 
