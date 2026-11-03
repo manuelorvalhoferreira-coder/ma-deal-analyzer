@@ -1,0 +1,69 @@
+key,value,unit,period,published,source,url
+offer_price,95.00,USD per share,announced 2022-01-18,2022-01-18,Microsoft announcement (Form 8-K exhibit),https://www.sec.gov/Archives/edgar/data/789019/000119312522010667/d301984dex991.htm
+deal_value,68700,USD m,announced 2022-01-18,2022-01-18,"Microsoft announcement: all-cash, inclusive of Activision net cash",https://www.sec.gov/Archives/edgar/data/789019/000119312522010667/d301984dex991.htm
+atvi_undisturbed,65.39,USD per share,close 2022-01-14,not stated,Kiplinger ticker price; consistent with the 45.3% premium in the merger proxy,https://www.kiplinger.com/investing/stocks/tech-stocks/604073/activision-blizzard-microsoft-deal
+premium_1d_proxy,0.453,ratio,to close 2022-01-14,2022-03,Activision merger proxy (DEFM14A),https://www.sec.gov/Archives/edgar/data/718877/000110465922036155/tm225196-4_defm14a.htm
+premium_30d_vwap,0.503,ratio,30 trading days to 2022-01-14,2022-03,Activision merger proxy (DEFM14A),https://www.sec.gov/Archives/edgar/data/718877/000110465922036155/tm225196-4_defm14a.htm
+atvi_day1_close,82.31,USD per share,close 2022-01-18,2022-11-25,MarketScreener / Dow Jones data note,https://ca.marketscreener.com/quote/stock/ACTIVISION-BLIZZARD-INC-3780631/news/Activision-Blizzard-on-Pace-for-Largest-Percent-Decrease-Since-November-2021-Data-Talk-42411764/
+atvi_low_close,57.28,USD per share,close 2021-12-01,2022-11-25,MarketScreener / Dow Jones data note,https://ca.marketscreener.com/quote/stock/ACTIVISION-BLIZZARD-INC-3780631/news/Activision-Blizzard-on-Pace-for-Largest-Percent-Decrease-Since-November-2021-Data-Talk-42411764/
+reverse_fee_low,2000,USD m,before 2023-01-18,2022-01,Merger agreement summary (Form 8-K text on MarketScreener),https://www.marketscreener.com/quote/stock/ACTIVISION-BLIZZARD-INC-3780631/news/ACTIVISION-BLIZZARD-INC-Entry-into-a-Material-Definitive-Agreement-Amendments-to-Articles-of-In-37584377/
+reverse_fee_high,3000,USD m,after 2023-04-18,2022-01,Merger agreement summary (Form 8-K text on MarketScreener),https://www.marketscreener.com/quote/stock/ACTIVISION-BLIZZARD-INC-3780631/news/ACTIVISION-BLIZZARD-INC-Entry-into-a-Material-Definitive-Agreement-Amendments-to-Articles-of-In-37584377/
+atvi_shares_issued,1207.729623,m,2021-12-31,2022-02,Activision 2021 Form 10-K balance sheet,https://www.sec.gov/Archives/edgar/data/718877/000162828022003992/atvi-20211231.htm
+atvi_treasury_shares,428.676,m,2021-12-31,2022-02,Activision 2021 Form 10-K balance sheet,https://www.sec.gov/Archives/edgar/data/718877/000162828022003992/atvi-20211231.htm
+atvi_rsus,13.258,m,2021-12-31,2022-02,"Activision 2021 Form 10-K: unvested RSUs, performance awards at target",https://www.sec.gov/Archives/edgar/data/718877/000162828022003992/atvi-20211231.htm
+atvi_options,9.133,m,2021-12-31,2022-02,Activision 2021 Form 10-K: outstanding options,https://www.sec.gov/Archives/edgar/data/718877/000162828022003992/atvi-20211231.htm
+atvi_option_strike,57.77,USD per share,2021-12-31,2022-02,Activision 2021 Form 10-K: weighted-average exercise price,https://www.sec.gov/Archives/edgar/data/718877/000162828022003992/atvi-20211231.htm
+atvi_shares_feb22,779.235,m,2022-02-18,2022-02,Activision 2021 Form 10-K cover,https://www.sec.gov/Archives/edgar/data/718877/000162828022003992/atvi-20211231.htm
+atvi_shares_record_date,780.923,m,2022-03-14,2022-03,Activision merger proxy (DEFM14A),https://www.sec.gov/Archives/edgar/data/718877/000110465922036155/tm225196-4_defm14a.htm
+atvi_weighted_diluted,784,m,FY2021 weighted average,2022-02,Activision 2021 Form 10-K EPS note,https://www.sec.gov/Archives/edgar/data/718877/000162828022003992/atvi-20211231.htm
+close_purchase_price,75406,USD m,closed 2023-10-13,2024-04,Microsoft 10-Q for March 2024 (XBRL note),https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/R33.htm
+close_cash,12976,USD m,closed 2023-10-13,2024-04,Microsoft 10-Q for March 2024 (XBRL note),https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/R33.htm
+close_debt,2799,USD m,closed 2023-10-13,2024-04,Microsoft 10-Q for March 2024 (XBRL note): long-term debt at fair value,https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/R33.htm
+close_intangibles,21969,USD m,closed 2023-10-13,2024-04,Microsoft 10-Q for March 2024 (XBRL note),https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/R33.htm
+close_marketing_intangibles,11619,USD m,closed 2023-10-13,2024-04,Microsoft 10-Q for March 2024 (XBRL note): marketing-related,https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/R33.htm
+close_marketing_life,24,years,closed 2023-10-13,2024-04,Microsoft 10-Q for March 2024 (XBRL note): weighted-average life,https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/R33.htm
+close_technology_intangibles,9689,USD m,closed 2023-10-13,2024-04,Microsoft 10-Q for March 2024 (XBRL note): technology-based,https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/R33.htm
+close_technology_life,4,years,closed 2023-10-13,2024-04,Microsoft 10-Q for March 2024 (XBRL note): weighted-average life,https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/R33.htm
+close_customer_intangibles,661,USD m,closed 2023-10-13,2024-04,Microsoft 10-Q for March 2024 (XBRL note): customer-related,https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/R33.htm
+close_customer_life,4,years,closed 2023-10-13,2024-04,Microsoft 10-Q for March 2024 (XBRL note): weighted-average life,https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/R33.htm
+later_quarter_amortization,700,USD m,Microsoft Q3 FY2024 outlook,2024-01,Microsoft Q2 FY2024 earnings call (transcript on MarketBeat),https://www.marketbeat.com/earnings/transcripts/101360
+atvi_revenue,8803,USD m,FY2021 (December),2022-02,Activision 2021 Form 10-K,https://www.sec.gov/Archives/edgar/data/718877/000162828022003992/atvi-20211231.htm
+atvi_ebit,3259,USD m,FY2021 (December),2022-02,Activision 2021 Form 10-K,https://www.sec.gov/Archives/edgar/data/718877/000162828022003992/atvi-20211231.htm
+atvi_da,116,USD m,FY2021 (December),2022-02,"Activision 2021 Form 10-K cash flow: depreciation and amortization, including $10m of acquired intangibles",https://www.sec.gov/Archives/edgar/data/718877/000162828022003992/atvi-20211231.htm
+atvi_capsw,324,USD m,FY2021 (December),2022-02,Activision 2021 Form 10-K cash flow: capitalized software development and IP licenses,https://www.sec.gov/Archives/edgar/data/718877/000162828022003992/atvi-20211231.htm
+atvi_net_income,2699,USD m,FY2021 (December),2022-02,Activision 2021 Form 10-K,https://www.sec.gov/Archives/edgar/data/718877/000162828022003992/atvi-20211231.htm
+atvi_net_income_nongaap,3196,USD m,FY2021 (December),2022-02,Activision Q4 2021 results release,https://www.businesswire.com/news/home/20220202006035/en/Activision-Blizzard-Announces-Fourth-Quarter-and-2021-Financial-Results
+atvi_cash,10423,USD m,2021-12-31,2022-02,Activision Q4 2021 results release,https://www.businesswire.com/news/home/20220202006035/en/Activision-Blizzard-Announces-Fourth-Quarter-and-2021-Financial-Results
+atvi_debt,3608,USD m,2021-12-31,2022-02,Activision Q4 2021 results release: long-term debt,https://www.businesswire.com/news/home/20220202006035/en/Activision-Blizzard-Announces-Fourth-Quarter-and-2021-Financial-Results
+msft_net_income,61271,USD m,FY2021 (June),2021-07-27,Microsoft Q4 FY2021 release (Form 8-K exhibit),https://www.sec.gov/Archives/edgar/data/789019/000119312521225746/d200100dex991.htm
+msft_net_income_nongaap,60651,USD m,FY2021 (June),2021-07-27,Microsoft Q4 FY2021 release,https://news.microsoft.com/2021/07/27/microsoft-cloud-strength-fuels-fourth-quarter-results-2/
+msft_diluted_shares,7608,m,FY2021 weighted average,2021-07-27,Microsoft Q4 FY2021 release (Form 8-K exhibit),https://www.sec.gov/Archives/edgar/data/789019/000119312521225746/d200100dex991.htm
+msft_pretax_income,71102,USD m,FY2021 (June),2021-07-27,Microsoft Q4 FY2021 release (Form 8-K exhibit),https://www.sec.gov/Archives/edgar/data/789019/000119312521225746/d200100dex991.htm
+msft_tax,9831,USD m,FY2021 (June),2021-07-27,Microsoft Q4 FY2021 release (Form 8-K exhibit),https://www.sec.gov/Archives/edgar/data/789019/000119312521225746/d200100dex991.htm
+msft_cash,130334,USD m,2021-06-30,2021-07-27,Microsoft Q4 FY2021 release (Form 8-K exhibit),https://www.sec.gov/Archives/edgar/data/789019/000119312521225746/d200100dex991.htm
+ea_price,132.50,USD per share,close 2022-01-12,2022-01-13,Zacks article,https://business.minstercommunitypost.com/minstercommunitypost/news/read/42108292/electronic_arts_
+ea_shares,286,m,FY2022 weighted average diluted,2022-05,EA FY2022 Form 10-K,https://www.sec.gov/Archives/edgar/data/712515/000071251522000011/ea-20220331.htm
+ea_shares_cover,279.894,m,2022-05-23,2022-05,EA FY2022 Form 10-K cover,https://www.sec.gov/Archives/edgar/data/712515/000071251522000011/ea-20220331.htm
+ea_revenue,6991,USD m,FY2022 (March),2022-05,EA FY2022 Form 10-K,https://www.sec.gov/Archives/edgar/data/712515/000071251522000011/ea-20220331.htm
+ea_ebit,1129,USD m,FY2022 (March),2022-05,EA FY2022 Form 10-K,https://www.sec.gov/Archives/edgar/data/712515/000071251522000011/ea-20220331.htm
+ea_depreciation,162,USD m,FY2022 (March),2022-05,EA FY2022 Form 10-K: property and equipment,https://www.sec.gov/Archives/edgar/data/712515/000071251522000011/ea-20220331.htm
+ea_intangibles,316,USD m,FY2022 (March),2022-05,"EA FY2022 Form 10-K: amortization of acquired intangibles, including $45m of impairment",https://www.sec.gov/Archives/edgar/data/712515/000071251522000011/ea-20220331.htm
+ea_capsw,0,USD m,FY2022 (March),2022-05,EA FY2022 Form 10-K: capitalized software described as insignificant,https://www.sec.gov/Archives/edgar/data/712515/000071251522000011/ea-20220331.htm
+ea_net_income,789,USD m,FY2022 (March),2022-05,EA FY2022 Form 10-K,https://www.sec.gov/Archives/edgar/data/712515/000071251522000011/ea-20220331.htm
+ea_cash,3062,USD m,2022-03-31,2022-05,EA FY2022 Form 10-K: cash 2732 + short-term investments 330,https://www.sec.gov/Archives/edgar/data/712515/000071251522000011/ea-20220331.htm
+ea_debt,1878,USD m,2022-03-31,2022-05,EA FY2022 Form 10-K: senior notes,https://www.sec.gov/Archives/edgar/data/712515/000071251522000011/ea-20220331.htm
+ttwo_price,152.58,USD per share,close 2022-01-14,not applicable,Yahoo Finance single observation; no alternative source found for this close,https://finance.yahoo.com/quote/TTWO/history
+ttwo_shares,116.8,m,FY2022 weighted average diluted,2022-05-16,Take-Two Q4 FY2022 release,https://www.sec.gov/Archives/edgar/data/946581/000162828022014496/ttwo4q22earningsrelease.htm
+ttwo_revenue,3504.8,USD m,FY2022 (March),2022-05-16,Take-Two Q4 FY2022 release,https://www.sec.gov/Archives/edgar/data/946581/000162828022014496/ttwo4q22earningsrelease.htm
+ttwo_ebit,473.6,USD m,FY2022 (March),2022-05-16,Take-Two Q4 FY2022 release,https://www.sec.gov/Archives/edgar/data/946581/000162828022014496/ttwo4q22earningsrelease.htm
+ttwo_depreciation,61.196,USD m,FY2022 (March),2022-05-16,Take-Two Q4 FY2022 release: cash flow,https://www.sec.gov/Archives/edgar/data/946581/000162828022014496/ttwo4q22earningsrelease.htm
+ttwo_intangibles,62.856,USD m,FY2022 (March),2022-05-16,Take-Two Q4 FY2022 release: non-GAAP reconciliation of acquired intangibles,https://www.sec.gov/Archives/edgar/data/946581/000162828022014496/ttwo4q22earningsrelease.htm
+ttwo_ip_amort,64.817,USD m,FY2022 (March),2022-05-16,Take-Two Q4 FY2022 release: cash flow,https://www.sec.gov/Archives/edgar/data/946581/000162828022014496/ttwo4q22earningsrelease.htm
+ttwo_capsw,153.279,USD m,FY2022 (March),2022-05-16,Take-Two Q4 FY2022 release: cash flow; software development costs and licenses,https://www.sec.gov/Archives/edgar/data/946581/000162828022014496/ttwo4q22earningsrelease.htm
+ttwo_capsw_impairment,70.611,USD m,FY2022 (March),2022-05-16,Take-Two Q4 FY2022 release: cash flow,https://www.sec.gov/Archives/edgar/data/946581/000162828022014496/ttwo4q22earningsrelease.htm
+ttwo_net_income,418.0,USD m,FY2022 (March),2022-05-16,Take-Two Q4 FY2022 release,https://www.sec.gov/Archives/edgar/data/946581/000162828022014496/ttwo4q22earningsrelease.htm
+ttwo_cash,2552.1,USD m,2022-03-31,2022-05-16,Take-Two Q4 FY2022 release: cash 1732.0 + short-term investments 820.1,https://www.businesswire.com/news/home/20220516005693/en/Take-Two-Interactive-Software-Inc.-Reports-Strong-Results-for-Fiscal-Year-2022/
+ttwo_debt,0,USD m,2022-03-31,2022-05-16,Take-Two Q4 FY2022 release: no debt line at year end,https://www.businesswire.com/news/home/20220516005693/en/Take-Two-Interactive-Software-Inc.-Reports-Strong-Results-for-Fiscal-Year-2022/
+sp500_at_close,4327.78,index,close 2023-10-13,2023-10-14,S&P 500 close in a Reuters report republished by Malay Mail,https://www.malaymail.com/news/money/2023/10/14/sp-500-nasdaq-fall-with-data-geopolitics-offsets-strong-results/96171
+atvi_close_2023_08_04,91.58,USD per share,close 2023-08-04,not applicable,Stock Analysis price history,https://stockanalysis.com/stocks/atvi/history
+atvi_close_2023_10_12,94.42,USD per share,close 2023-10-12,not applicable,Stock Analysis price history,https://stockanalysis.com/stocks/atvi/history
